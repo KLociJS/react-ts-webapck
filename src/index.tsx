@@ -1,3 +1,4 @@
+import "@testing-library/jest-dom";
 import { createRoot } from "react-dom/client";
 import App from "./App";
 
