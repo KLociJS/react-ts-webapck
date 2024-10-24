@@ -24,7 +24,8 @@
   },
   "contributors": [],
   "scripts": {
-    "dev": "webpack server --open --config webpack.config.cjs"
+    "dev": "webpack server --open --config webpack.config.cjs",
+    "test": "jest"
   },
   "dependencies": {
     "@testing-library/react": "^16.0.1",
